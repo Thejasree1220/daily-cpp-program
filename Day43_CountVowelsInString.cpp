@@ -11,5 +11,5 @@ int main()
                 if((s[i]=='a'||s[i]=='e'||s[i]=='i'||s[i]=='o'||s[i]=='u')||(s[i]=='A'||s[i]=='E'||s[i]=='I'||s[i]=='O'||s[i]=='U'))
                         v++;
         }
-        cout<<"count of vowels is:"<<v<<endl;
+        cout<<"count of vowels:"<<v<<endl;
 }
